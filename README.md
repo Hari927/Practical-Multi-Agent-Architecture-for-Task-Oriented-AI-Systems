@@ -20,6 +20,8 @@ A **multi-agent system** consists of independent agents working together, each h
 * Validating final outputs
 
 ---
+<img width="1052" height="592" alt="image" src="https://github.com/user-attachments/assets/ae06bf40-9948-49a8-95c5-1f54858f7a76" />
+
 
 ## ⚙️ Architecture Design
 
